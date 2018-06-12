@@ -110,7 +110,6 @@
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-auth-api-phone-license-11.8.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-auth-base-license-11.8.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-basement-license-11.8.0" level="project" />
-    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/home/lokesh/Work/EdAR/CdemoV2/libs/unity-classes.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.firebase:firebase-iid-11.8.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.android.support:support-fragment-27.1.1" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.core:runtime-1.1.0" level="project" />
@@ -154,6 +153,7 @@
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-tasks-11.8.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.android.gms:play-services-auth-11.8.0" level="project" />
     <orderEntry type="library" exported="" name="Gradle: android.arch.core:common:1.1.0@jar" level="project" />
+    <orderEntry type="library" exported="" name="Gradle: __local_jars__:/home/lokesh/Work/EdAR_dev/merge/CdemoV2/libs/unity-classes.jar:unspecified@jar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: VuforiaWrapper:@aar" level="project" />
     <orderEntry type="library" exported="" name="Gradle: com.google.firebase:firebase-auth-license-11.8.0" level="project" />
   </component>
