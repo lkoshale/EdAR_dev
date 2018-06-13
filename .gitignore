@@ -1,4 +1,4 @@
- CdemoV2/build/*
+CdemoV2/build/*
 *.class
 CdemoV2/.idea/*
 CdemoV2/.gradle/*
