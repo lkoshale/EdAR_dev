@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "21144930974",
+    "firebase_url": "https://edar-40c29.firebaseio.com",
+    "project_id": "edar-40c29",
+    "storage_bucket": "edar-40c29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21144930974:android:4dd4b9078afe953e",
+        "android_client_info": {
+          "package_name": "com.edar.V5cdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21144930974-ivs30cgcjlu1n4nihfa5ab64mcq3dvks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edar.V5cdemo",
+            "certificate_hash": "0d22c5319758943cb584c740456981ed9d0c1a0e"
+          }
+        },
+        {
+          "client_id": "21144930974-jjp8rr2qmapni4r89m1efk2sc3gnosul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edar.V5cdemo",
+            "certificate_hash": "a8024b25ed4ef188896882123bc5cddc52c636c6"
+          }
+        },
+        {
+          "client_id": "21144930974-iau8t9l259k965n1vid9lrb86arq5q32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9JBhB5pHzQGTr0RSZNsPtk6q3JBQiKX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21144930974-iau8t9l259k965n1vid9lrb86arq5q32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

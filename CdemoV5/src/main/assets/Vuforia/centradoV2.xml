@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="skull" size="5.000000 2.151394" />
+    <ImageTarget name="arm" size="5.000000 3.157692" />
+    <ImageTarget name="hand" size="5.000000 4.481132" />
+    <ImageTarget name="mineralresources" size="5.000000 3.753918" />
+    <ImageTarget name="reptiles" size="5.000000 3.125000" />
+    <ImageTarget name="WWR" size="5.000000 6.243781" />
+    <ImageTarget name="chopper" size="5.000000 3.333333" />
+    <ImageTarget name="missile" size="5.000000 3.402490" />
+    <ImageTarget name="militarytank" size="5.000000 3.333333" />
+    <ImageTarget name="submarine" size="5.000000 2.107888" />
+    <ImageTarget name="cargoship" size="5.000000 3.338221" />
+    <ImageTarget name="militaryhovercraft" size="5.000000 3.050000" />
+    <ImageTarget name="steamlocomotive" size="5.000000 3.072222" />
+    <ImageTarget name="humanteeth" size="5.000000 4.000000" />
+    <ImageTarget name="MUSCULARSYSTEM" size="5.000000 3.750000" />
+    <ImageTarget name="skeleton" size="5.000000 7.146933" />
+    <ImageTarget name="satellite" size="5.000000 2.758817" />
+    <ImageTarget name="kidney" size="5.000000 3.333333" />
+    <ImageTarget name="Lungs" size="5.000000 3.629412" />
+    <ImageTarget name="motor" size="5.000000 3.389831" />
+    <ImageTarget name="fish" size="5.000000 5.287500" />
+    <ImageTarget name="bacteria" size="5.000000 4.056225" />
+    <ImageTarget name="spinalcord" size="5.000000 5.150000" />
+    <ImageTarget name="starfish" size="5.000000 2.742188" />
+    <ImageTarget name="nose" size="5.000000 3.152778" />
+    <ImageTarget name="PLANTCELL" size="5.000000 5.000000" />
+    <ImageTarget name="liver" size="5.000000 2.500000" />
+    <ImageTarget name="HUMANBRAIN" size="5.000000 3.635593" />
+    <ImageTarget name="eye" size="5.000000 4.535714" />
+    <ImageTarget name="ear" size="5.000000 4.522222" />
+    <ImageTarget name="BONE" size="5.000000 3.496667" />
+    <ImageTarget name="animalcell" size="5.000000 4.083333" />
+    <ImageTarget name="frog" size="5.000000 5.000000" />
+  </Tracking>
+</QCARConfig>
