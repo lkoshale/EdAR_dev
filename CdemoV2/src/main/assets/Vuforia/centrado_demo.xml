@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <ImageTarget name="microbes-759" size="5.000000 2.779974" />
-    <ImageTarget name="dna" size="5.000000 2.812500" />
-    <ImageTarget name="27428" size="5.000000 3.928571" />
-    <ImageTarget name="sistemasolare" size="5.000000 3.126667" />
-  </Tracking>
-</QCARConfig>
